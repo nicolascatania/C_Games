@@ -7,7 +7,7 @@
 #define MAXWORDS 50
 #define MAXWORDLEN 100
 #define INITIAL_WORD_COUNT 10
-#define FILE_WORDS "WORDS.txt"
+#define FILE_WORDS "WORDS.txt" //HERE YOU HAVE TO PUT THE PATH TO THE .txt FILE
 
 
 void hangmanGame();
