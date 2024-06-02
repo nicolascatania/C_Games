@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1717349344 source:c:\users\nicol\onedrive\escritorio\hangmangame\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+
+1717360283 source:e:\users\usuario\desktop\media\programs\hangmangame\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+
